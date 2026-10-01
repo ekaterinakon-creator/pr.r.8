@@ -1,0 +1,7 @@
+D:\simss\projectssss\pr.r.8-main\pr.r.8-main\pr.r.8\obj\Debug\pr.r.8.csproj.AssemblyReference.cache
+D:\simss\projectssss\pr.r.8-main\pr.r.8-main\pr.r.8\obj\Debug\pr.r.8.csproj.CoreCompileInputs.cache
+D:\simss\projectssss\pr.r.8-main\pr.r.8-main\pr.r.8\bin\Debug\pr.r.8.exe.config
+D:\simss\projectssss\pr.r.8-main\pr.r.8-main\pr.r.8\bin\Debug\pr.r.8.exe
+D:\simss\projectssss\pr.r.8-main\pr.r.8-main\pr.r.8\bin\Debug\pr.r.8.pdb
+D:\simss\projectssss\pr.r.8-main\pr.r.8-main\pr.r.8\obj\Debug\pr.r.8.exe
+D:\simss\projectssss\pr.r.8-main\pr.r.8-main\pr.r.8\obj\Debug\pr.r.8.pdb
